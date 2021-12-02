@@ -1,0 +1,4 @@
+{:paths ["src" "resources"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        io.github.clojure/tools.build {:git/tag "v0.6.8" :git/sha "d79ae84"}}
+ :aliases {:run {:exec-fn repro/exec!}}}
