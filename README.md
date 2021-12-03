@@ -1,5 +1,7 @@
 # tools-build-executable-file-copy-bug
 
+**NOTE**: This repo was created as part of debugging an [issue](https://github.com/seancorfield/deps-new/issues/22) with `deps-new`. The issue has been resovled. Archiving the repo. 
+
 Execute the app 
 ```shell
 clj -X:run
